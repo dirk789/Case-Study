@@ -1,0 +1,16 @@
+.counter button {
+    background: var(--primary);
+    border: none;
+    padding: 6px;
+    color: white;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+.counter button:not(:first-of-type) {
+    margin-left: 1rem;
+}
+
+.count {
+    color: var(--primary);
+}

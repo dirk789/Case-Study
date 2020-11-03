@@ -1,0 +1,7 @@
+table {
+    width: 100%;
+}
+
+table tr:nth-child(odd) {
+    background: rgb(241, 241, 241);
+}
